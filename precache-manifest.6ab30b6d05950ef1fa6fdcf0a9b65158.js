@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa0489049020a79352fb8da6410afb18",
+    "revision": "a04b3c4dc844eac8a4987e1110b1e3ae",
     "url": "/teste_react/jogo_da_velha/index.html"
   },
   {
-    "revision": "a64eb1371ef8bb141d09",
+    "revision": "0be3121c6f0bb272f19a",
     "url": "/teste_react/jogo_da_velha/static/css/main.55d72bbf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teste_react/jogo_da_velha/static/js/2.e5fe2c6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a64eb1371ef8bb141d09",
-    "url": "/teste_react/jogo_da_velha/static/js/main.1faac050.chunk.js"
+    "revision": "0be3121c6f0bb272f19a",
+    "url": "/teste_react/jogo_da_velha/static/js/main.17c0821f.chunk.js"
   },
   {
     "revision": "c4a0e50e3e39f197c931",
