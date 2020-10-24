@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teste_react/jogo_da_velha/precache-manifest.ee52d1b2af08bd02862a135157bd5d5b.js"
+  "/teste_react/jogo_da_velha/precache-manifest.6ab30b6d05950ef1fa6fdcf0a9b65158.js"
 );
 
 self.addEventListener('message', (event) => {
