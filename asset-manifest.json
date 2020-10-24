@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/teste_react/teste_gh_pages/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/teste_react/teste_gh_pages/static/js/main.11189e7a.chunk.js",
-    "main.js.map": "/teste_react/teste_gh_pages/static/js/main.11189e7a.chunk.js.map",
-    "runtime-main.js": "/teste_react/teste_gh_pages/static/js/runtime-main.d004e950.js",
-    "runtime-main.js.map": "/teste_react/teste_gh_pages/static/js/runtime-main.d004e950.js.map",
-    "static/js/2.534a421f.chunk.js": "/teste_react/teste_gh_pages/static/js/2.534a421f.chunk.js",
-    "static/js/2.534a421f.chunk.js.map": "/teste_react/teste_gh_pages/static/js/2.534a421f.chunk.js.map",
-    "static/js/3.11ad01c3.chunk.js": "/teste_react/teste_gh_pages/static/js/3.11ad01c3.chunk.js",
-    "static/js/3.11ad01c3.chunk.js.map": "/teste_react/teste_gh_pages/static/js/3.11ad01c3.chunk.js.map",
-    "index.html": "/teste_react/teste_gh_pages/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/teste_react/teste_gh_pages/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.534a421f.chunk.js.LICENSE.txt": "/teste_react/teste_gh_pages/static/js/2.534a421f.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/teste_react/teste_gh_pages/static/media/logo.103b5fa1.svg"
+    "main.css": "/teste_react/jogo_da_velha/static/css/main.55d72bbf.chunk.css",
+    "main.js": "/teste_react/jogo_da_velha/static/js/main.1faac050.chunk.js",
+    "main.js.map": "/teste_react/jogo_da_velha/static/js/main.1faac050.chunk.js.map",
+    "runtime-main.js": "/teste_react/jogo_da_velha/static/js/runtime-main.92b56d94.js",
+    "runtime-main.js.map": "/teste_react/jogo_da_velha/static/js/runtime-main.92b56d94.js.map",
+    "static/js/2.e5fe2c6e.chunk.js": "/teste_react/jogo_da_velha/static/js/2.e5fe2c6e.chunk.js",
+    "static/js/2.e5fe2c6e.chunk.js.map": "/teste_react/jogo_da_velha/static/js/2.e5fe2c6e.chunk.js.map",
+    "index.html": "/teste_react/jogo_da_velha/index.html",
+    "precache-manifest.ee52d1b2af08bd02862a135157bd5d5b.js": "/teste_react/jogo_da_velha/precache-manifest.ee52d1b2af08bd02862a135157bd5d5b.js",
+    "service-worker.js": "/teste_react/jogo_da_velha/service-worker.js",
+    "static/css/main.55d72bbf.chunk.css.map": "/teste_react/jogo_da_velha/static/css/main.55d72bbf.chunk.css.map",
+    "static/js/2.e5fe2c6e.chunk.js.LICENSE.txt": "/teste_react/jogo_da_velha/static/js/2.e5fe2c6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d004e950.js",
-    "static/js/2.534a421f.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.11189e7a.chunk.js"
+    "static/js/runtime-main.92b56d94.js",
+    "static/js/2.e5fe2c6e.chunk.js",
+    "static/css/main.55d72bbf.chunk.css",
+    "static/js/main.1faac050.chunk.js"
   ]
 }
