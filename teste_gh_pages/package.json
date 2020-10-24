@@ -2,7 +2,7 @@
   "name": "teste_gh_pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gilcemargz.github.io/teste_react/teste_gh_pages/",
+  "homepage": "https://gilcemargz.github.io/teste_react/teste_gh_pages",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
